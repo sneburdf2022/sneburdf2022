@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneburdf2022&label=Profile%20views&color=0e75b6&style=flat" alt="sneburdf2022" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneburdf2022" alt="sneburdf2022" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - Esse é meu GtHub publico [Apps in Flutter from mobile](https://github.com/sneburdf2022/)
 
 -  Atualmente estudando  **Flutter, Angular, React, Vue, Java Spring  Boot Boot e estou me especializando cada dia mais em C#**
