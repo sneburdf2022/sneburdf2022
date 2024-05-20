@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rubens Oliveira</h1>
-<h3 align="center">A passionate frontend/backend developer from Brazil</h3>
+<h1 align="center">Fala pessoal, esse é meu Github</h1>
+<h3 align="center">Sou brasileiro e desenvolvedor frontend/backend </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneburdf2022&label=Profile%20views&color=0e75b6&style=flat" alt="sneburdf2022" /> </p>
 
@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Apps in Flutter from mobile](https://github.com/sneburdf2022/)
+- Esse é meu GtHub publico [Apps in Flutter from mobile](https://github.com/sneburdf2022/)
 
-- 🌱 I’m currently learning **Flutter, Angular, Java Scripng Boot and C#**
+-  Atualmente estudando  **Flutter, Angular, React, Vue, Java Spring  Boot Boot e estou me especializando cada dia mais em C#**
 
-- 👯 I’m looking to collaborate on [Oliveira's projet](https://github.com/sneburdf2022/)
+- 💬 Pode peguntar sobre  **Java e C#**
 
-- 🤝 I’m looking for help with [App projetc for all](https://github.com/sneburdf2022/)
+- Meu e-mail para contato: rublira80@gmail.com
 
-- 💬 Ask me about **Java and C#**
-
-- 📫 How to reach me **aso.rubens@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Meus contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rubens-silva-oliveira-07431b42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubens-silva-oliveira-07431b42" height="30" width="40" /></a>
 </p>
